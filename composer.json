@@ -1,12 +1,14 @@
 {
     "name": "micchellhenrique/code-facebook-bot-sdk",
     "type": "library",
-    "require": {
+    "license": "MIT",	
+    
+	"require": {
         "php": ">=5.6",
 	"phpunit/phpunit": "^5.7"
     },
-    "autoload": {
-	"par-4": {
+    	"autoload": {
+	"psr-4": {
 		"CodeBot\\": "src"
 	}
 
