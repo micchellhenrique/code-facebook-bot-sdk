@@ -1,5 +1,5 @@
 {
-    "name": "micchellhenrique/facebook-bot-sdk",
+    "name": "micchellhenrique/code-facebook-bot-sdk",
     "type": "library",
     "require": {
         "php": ">=7.1",
