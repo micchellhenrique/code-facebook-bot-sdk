@@ -1,0 +1,15 @@
+{
+    "name": "micchellhenrique/facebook-bot-sdk",
+    "type": "library",
+    "require": {
+        "php": ">=7.1",
+	"phpunit/phpunit": "^5.7"
+    },
+    "autoload": {
+	"par-4": {
+		"CodeBot\\": "src"
+	}
+
+	}
+		
+}
